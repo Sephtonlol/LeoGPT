@@ -11,7 +11,7 @@ You may or may not regenerate responses if Leo breaks before the 7 message point
 
 If for any reason you would like to keep the conversation going, you must copy your whole conversation and put it as the new 'scenario'.
 
-To have the best experience with Leo, you must start every sentence under 'scenario' with 'Leo' and try to mention 
+To have the best experience with Leo, you must start every sentence under 'scenario' with 'Leo'.
 Also, mention Leo in your messages as much as possible to make sure Leo replies and not chatgpt.
 
 Enjoy!
